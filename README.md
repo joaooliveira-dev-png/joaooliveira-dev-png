@@ -1,16 +1,20 @@
-## Hi there 👋
+## 👨🏽‍💻João Vitor
 
-<!--
-**joaooliveira-dev-png/joaooliveira-dev-png** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Programador/back-end`**
 
-Here are some ideas to get you started:
+Me chamo João Vitor, tenho 18 anos e programo em java, mas tambem sei de git e github aqui tem uns projetos bem legais para vocês da uma olhada
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ![Snake animation](https://github.com/vicnuel/vicnuel/blob/output/github-contribution-grid-snake-dark.svg)
+
+##
+  🤖 Linguagens e tecnologias:
+
+![Java](https://img.shields.io/badge/java-%23333333.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23333333.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23333333.svg?style=for-the-badge&logo=github&logoColor=white)
+
+  ##
+
+  📬 Contate-me:
+
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white)](almeidaoliveira9697@gmail.com)
