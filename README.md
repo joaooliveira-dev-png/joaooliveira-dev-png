@@ -10,6 +10,7 @@ Me chamo João Vitor, tenho 18 anos e programo em java, mas tambem sei de git e 
   🤖 Linguagens e tecnologias:
 
 ![Java](https://img.shields.io/badge/java-%23333333.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%23333333.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23333333.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23333333.svg?style=for-the-badge&logo=github&logoColor=white)
 
